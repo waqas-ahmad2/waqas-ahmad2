@@ -1,4 +1,4 @@
-<h2>I'm Waqas!</h2>
+<h2>Hi, It's Waqas! 🙂 </h2>
   </br>
 
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
@@ -40,7 +40,8 @@ npx Waqas
 
   <p align="center"> 
     <a href="https://www.linkedin.com/in/waqas-ahmad-8048a37b/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-    <a href="mailto:waqasraja880@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+    &nbsp;
+    <a href="mailto:waqasraja880@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="32" width="30"></a>
   </p>
 
 ⭐️ From [Waqas Ahmad](https://github.com/waqas-ahmad2)
