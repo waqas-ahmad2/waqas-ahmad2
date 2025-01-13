@@ -2,8 +2,7 @@
   </br>
 
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-</br></br></br>
-<h2>Here are some ideas to get you started:</h2> </br>
+</br></br>
 - 🔭 I’m currently more into the <b>Programming.</b></br>
 - 🌱 I’m currently learning <b>Open Source Contribution.</b></br>
 - 👯 I’m looking to collaborate on: <b>Developing new and intriguing open-source projects, with the community, for the community</b>b></br>
