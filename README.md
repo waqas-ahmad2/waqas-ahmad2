@@ -81,11 +81,3 @@
 <a href="https://www.linkedin.com/in/waqas-ahmad-8048a37b/"><img src="https://img.shields.io/badge/-Waqas%20Ahmad-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:waqasraja880@gmail.com"><img src="https://img.shields.io/badge/-Waqas%20Ahmad-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
